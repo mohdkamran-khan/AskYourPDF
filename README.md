@@ -18,6 +18,12 @@ A simple and clean AI-powered PDF Question Answering Agent built as part of the 
 
 ---
 
+3. Architecture:
+
+<img width="1536" height="1024" alt="askyourpdfarchitecture" src="https://github.com/user-attachments/assets/f749304e-1301-48a8-ab64-16f5319b916c" />
+
+---
+
 ## Users can:
 
 - Upload a PDF
